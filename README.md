@@ -1,4 +1,4 @@
-![Screenshot 2024-10-12 at 14 25 55](https://github.com/user-attachments/assets/3355a5f0-577c-4a0d-8c8c-57e25d7b3c78)# Yardım Eli Uygulaması 🚨 🫴🏼
+# Yardım Eli Uygulaması 🚨 🫴🏼
 
 Yardım Eli Uygulaması, kadınların ve tehlike anında yardıma ihtiyacı olan herkesin kullanabileceği çok fonksiyonlu bir mobil uygulamadır. Yardım Eli Uygulaması, Türkiye'de artan kadın cinayetlerine, kadın şiddetine dur demek, potansiyel saldırganları caydırmak ve ülkemizde böyle bir uygulamanın eksikliğini gidermek için tasarlanmıştır.
 
