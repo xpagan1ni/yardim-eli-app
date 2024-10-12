@@ -1,2 +1,1 @@
-# yardim-eli-app
-Yardım Eli Uygulaması
+# Yardım Eli Uygulaması 🚨 🫴🏼
