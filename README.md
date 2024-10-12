@@ -14,12 +14,13 @@ Uygulamayı indirip kurduktan sonra (sayfanın sonunda nasıl yapacağınızı a
 
 Ayarlar sekmesinden uygulama hakkında merak ettiğiniz soruları 'Hakkında' butonuna tıklayarak öğrenebilirsiniz. 
 
-![Screenshot 2024-10-12 at 14 21 13](https://github.com/user-attachments/assets/bb967f45-3c6e-452e-bcf4-99767f92430b)   ![Screenshot 2024-10-12 at 14 17 48](https://github.com/user-attachments/assets/d1b1cdd7-191f-40ea-b828-996b15fd7dc4)
+![375953491-bb967f45-3c6e-452e-bcf4-99767f92430b](https://github.com/user-attachments/assets/316e23a5-5cf1-4c14-a778-0aef63976add) ![Screenshot 2024-10-12 at 14 17 48](https://github.com/user-attachments/assets/d1b1cdd7-191f-40ea-b828-996b15fd7dc4)
 
 'Destek' butonuna tıklayarak bizimle mail yoluyla iletişim kurabilir ve sorunlarınızı, tavsiyeleriniz iletebilirsiniz.
 
 
-![Screenshot 2024-10-12 at 14 19 25](https://github.com/user-attachments/assets/133f7d51-a516-4e0d-8d48-7944988e2407)
+![375953369-133f7d51-a516-4e0d-8d48-7944988e2407](https://github.com/user-attachments/assets/0ee6f9eb-36e3-47fe-90a5-35bcf02c2227)
+
 
 'Çıkış Yap' butonu ile hesabınızdan çıkış yapabilirsiniz.
 
