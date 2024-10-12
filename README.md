@@ -4,6 +4,10 @@ Yardım Eli Uygulaması, kadınların ve tehlike anında yardıma ihtiyacı olan
 
 Yardım Eli, tamamen açık kaynak kodlu olacak şekilde tasarlanmıştır ve kullanıcı verilerini saklamaz, üçüncü kişiler veya kurumlar ile paylaşmaz. Uygulama içerisinde vermiş olduğunuz tüm veriler kendi cihazınızda saklanır. Firebase tabanlı bir kayıt olma sistemine sahiptir ve uygulamaya sadece e-mail adresiniz ve kendi belirleyeceğiniz şifre ile kayıt olup kullanmaya başlayabilirsiniz. 
 
+![Group 1](https://github.com/user-attachments/assets/f2032973-8297-4b70-a335-27261c4058c5)  ![Group 2](https://github.com/user-attachments/assets/06f12776-900e-463e-8a26-d3761e27bc85)
+
+
+
 Yardım Eli sizlere birçok farklı eylemi tek bir ekrandan kontrol etme özelliği sunar. Örneğin uygulama içerisinde 'Yakınlar' sekmesinden eklediğiniz kişilere tek tıkla konumunuzu gönderebilir ve tehlikede olduğunuzu bildirebilirsiniz. 
 
 Yardım eli uygulamasında altı adet aksiyon butonu bulunuyor.
