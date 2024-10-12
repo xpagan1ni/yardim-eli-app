@@ -90,8 +90,10 @@ Bu buton, birinci basışınızds tehlike anında bir ışığa ihtiyaç duyduğ
 
 Uygulamayı indirmeden önce, uygulamamızda herhangi bir virüs olmadığını kanıtlayan virüs taramasının sonucunu aşağıda görebilirsiniz. Uygulamayı
 
-https://www.virustotal.com/gui/file/5551ac01bfc0d55f6f4409267754783b624150b6339291684983c491ca6ff425?nocache=1
-![37127](https://github.com/user-attachments/assets/31ffc3dd-5e64-4e23-b075-dced29e8b4f3)
+https://www.virustotal.com/gui/file/39c26b8ef1a7db10c90042be7e84a1726b85e2859ac69ca8baf185168b7010c6?nocache=1
+
+![Screenshot 2024-10-12 at 17 54 59](https://github.com/user-attachments/assets/15342d17-04ae-4969-bbf0-3a0131428ba6)
+
 
 1. Uygulamayı indirmek için https://github.com/xpagan1ni/yardim-eli-app/releases/tag/v1.0.0 linkine gittikten sonra 'yardimeli.apk' yazan bastıktan sonra, uygulama otomatik olarak inecektir. Eğer inmezse ve herhangi bildirim çıkarsa o bildirimi onaylamanız gerekmektedir. 
 
