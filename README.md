@@ -72,6 +72,7 @@ https://www.virustotal.com/gui/file/5551ac01bfc0d55f6f4409267754783b624150b63392
 
 3. Yardım Eli uygulaması yüklenmiştir. Umarız uygulamayı kullanacak zor durumlarda kalmazsınız.
 
+   ![WhatsApp Image 2024-10-12 at 13 42 15 (1)](https://github.com/user-attachments/assets/7c0c0c60-d67a-4922-9e93-b20a6ff4518f)
 
 
    
