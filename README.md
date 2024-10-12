@@ -1,4 +1,4 @@
-# Yardım Eli Uygulaması 🚨 🫴🏼
+![Screenshot 2024-10-12 at 14 25 55](https://github.com/user-attachments/assets/3355a5f0-577c-4a0d-8c8c-57e25d7b3c78)# Yardım Eli Uygulaması 🚨 🫴🏼
 
 Yardım Eli Uygulaması, kadınların ve tehlike anında yardıma ihtiyacı olan herkesin kullanabileceği çok fonksiyonlu bir mobil uygulamadır. Yardım Eli Uygulaması, Türkiye'de artan kadın cinayetlerine, kadın şiddetine dur demek, potansiyel saldırganları caydırmak ve ülkemizde böyle bir uygulamanın eksikliğini gidermek için tasarlanmıştır.
 
@@ -9,6 +9,35 @@ Yardım Eli, tamamen açık kaynak kodlu olacak şekilde tasarlanmıştır ve ku
 Uygulamayı indirip kurduktan sonra (sayfanın sonunda nasıl yapacağınızı anlattığımız adımları izleyin) tek yapmanız gereken hesabınız yoksa kayıt olmak, var ise giriş yapmaktır. Kayıt Olma işlemi de aynı Giriş yapma işlemi gibi sadece e-mail ve şifre gerektirir. Yardım Eli, verilerinizi sunucularda saklamaz.
 
 ![Screenshot 2024-10-12 at 14 04 34](https://github.com/user-attachments/assets/ef3b6e67-7fed-4259-9148-3eb4990ef757)
+
+### Ayarlar
+
+Ayarlar sekmesinden uygulama hakkında merak ettiğiniz soruları 'Hakkında' butonuna tıklayarak öğrenebilirsiniz. 
+
+![Screenshot 2024-10-12 at 14 21 13](https://github.com/user-attachments/assets/bb967f45-3c6e-452e-bcf4-99767f92430b)   ![Screenshot 2024-10-12 at 14 17 48](https://github.com/user-attachments/assets/d1b1cdd7-191f-40ea-b828-996b15fd7dc4)
+
+'Destek' butonuna tıklayarak bizimle mail yoluyla iletişim kurabilir ve sorunlarınızı, tavsiyeleriniz iletebilirsiniz.
+
+
+![Screenshot 2024-10-12 at 14 19 25](https://github.com/user-attachments/assets/133f7d51-a516-4e0d-8d48-7944988e2407)
+
+'Çıkış Yap' butonu ile hesabınızdan çıkış yapabilirsiniz.
+
+### Anasayfa
+
+Anasayfa'da toplam altı adet aksiyon butonu bulunur, aşağıda işlevlerini inceleyiniz.
+
+![96742](https://github.com/user-attachments/assets/d1ad1cc5-2960-43f7-8517-95a50a040dd9)
+
+### Yakınlar
+
+Yakınlar Ekranın'da uygulama içerisinde eklediğiniz kişiler görünür, eğer hiç kişi eklemediyseniz mutlaka eklemelisiniz. 'Kişi Ekle' butonuna basarak kişi ekleyebilirsiniz.
+
+![Screenshot 2024-10-12 at 14 25 55](https://github.com/user-attachments/assets/a7028885-0241-47dd-85a5-79afc7d9f7e8)
+
+Kişi ekleme ekranı ve kişi ekledikten sonra
+
+![Screenshot 2024-10-12 at 14 26 33](https://github.com/user-attachments/assets/a1c8fb88-fd45-4c3a-a0da-4bceba7f95b9)  ![Screenshot 2024-10-12 at 14 26 22](https://github.com/user-attachments/assets/8551c2e9-6792-4eae-b0c4-98ee27f153e6)
 
 
 
