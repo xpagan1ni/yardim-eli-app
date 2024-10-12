@@ -4,7 +4,12 @@ Yardım Eli Uygulaması, kadınların ve tehlike anında yardıma ihtiyacı olan
 
 Yardım Eli, tamamen açık kaynak kodlu olacak şekilde tasarlanmıştır ve kullanıcı verilerini saklamaz, üçüncü kişiler veya kurumlar ile paylaşmaz. Uygulama içerisinde vermiş olduğunuz tüm veriler kendi cihazınızda saklanır. Firebase tabanlı bir kayıt olma sistemine sahiptir ve uygulamaya sadece e-mail adresiniz ve kendi belirleyeceğiniz şifre ile kayıt olup kullanmaya başlayabilirsiniz. 
 
-![Group 1](https://github.com/user-attachments/assets/f2032973-8297-4b70-a335-27261c4058c5)  ![Group 2](https://github.com/user-attachments/assets/06f12776-900e-463e-8a26-d3761e27bc85)
+## Yardım Eli nasıl kullanılır?
+
+Uygulamayı indirip kurduktan sonra (sayfanın sonunda nasıl yapacağınızı anlattığımız adımları izleyin) tek yapmanız gereken hesabınız yoksa kayıt olmak, var ise giriş yapmaktır. Kayıt Olma işlemi de aynı Giriş yapma işlemi gibi sadece e-mail ve şifre gerektirir. Yardım Eli, verilerinizi sunucularda saklamaz.
+
+![Screenshot 2024-10-12 at 14 04 34](https://github.com/user-attachments/assets/ef3b6e67-7fed-4259-9148-3eb4990ef757)
+
 
 
 Yardım Eli sizlere birçok farklı eylemi tek bir ekrandan kontrol etme özelliği sunar. Örneğin uygulama içerisinde 'Yakınlar' sekmesinden eklediğiniz kişilere tek tıkla konumunuzu gönderebilir ve tehlikede olduğunuzu bildirebilirsiniz. 
@@ -59,6 +64,17 @@ Uygulamayı indirmeden önce, uygulamamızda herhangi bir virüs olmadığını 
 https://www.virustotal.com/gui/file/5551ac01bfc0d55f6f4409267754783b624150b6339291684983c491ca6ff425?nocache=1
 ![37127](https://github.com/user-attachments/assets/31ffc3dd-5e64-4e23-b075-dced29e8b4f3)
 
+1. Uygulamayı indirmek için https://github.com/xpagan1ni/yardim-eli-app/releases/tag/v1.0.0 linkine gittikten sonra 'yardimeli.apk' yazan bastıktan sonra, uygulama otomatik olarak inecektir. Eğer inmezse ve herhangi bildirim çıkarsa o bildirimi onaylamanız gerekmektedir. 
+
+2. Uygulama indikten sonra telefonunuzda indirilen dosyaların tutulduğu klasöre gitmeniz gerekmektedir, bu her telefonda farklılık gösterebilir ancak çoğu Android telefonda Dsoyalar > İndirilenler şeklindedir. Bu klasörde yardimeli.apk dosyasını göreceksiniz. Yüklemek için üzerine tıklayın, daha sonra 'Yükle' butonuna tıklayın ve uygulamayı yükleyin. (NOT: Eğer Google uygulamaya tarama yapmak isterse buna izin verin, aksi taktirde uygulamanız yüklenmez. Ancak tarama izni istemediyse uygulamanız yüklenmiş demektir.)
+
+   ![48537](https://github.com/user-attachments/assets/94bb1a4c-ec7c-4832-968c-2470711e25a5)
+
+3. Yardım Eli uygulaması yüklenmiştir. Umarız uygulamayı kullanacak zor durumlarda kalmazsınız.
+
+
+
+   
 
 
 
