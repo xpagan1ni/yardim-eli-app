@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#2688ab</item>
+        <item name="background">@color/alertRed</item>
+    </style>
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemBackground">@android:color/transparent</item>
+        <item name="itemIconTint">@color/universalTextColor</item>
+        <item name="itemTextColor">@color/universalTextColor</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+        <item name="itemActiveIndicatorStyle">@style/Custom.Indicator</item>
+    </style>
+</resources>

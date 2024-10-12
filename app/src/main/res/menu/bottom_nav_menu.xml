@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homePageFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Anasayfa" />
+
+    <item
+        android:id="@+id/settingsPageFragment"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Ayarlar" />
+
+    <item
+        android:id="@+id/contactsPageFragment"
+        android:icon="@drawable/outline_person_24"
+        android:title="Yakınlar" />
+</menu>

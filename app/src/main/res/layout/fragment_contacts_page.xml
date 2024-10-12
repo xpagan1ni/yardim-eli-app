@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactsPageFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:padding="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.003"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <Button
+            android:id="@+id/addContact"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="110dp"
+            android:width="150dp"
+            android:backgroundTint="@color/buttonColor"
+            android:text="Kişi Ekle"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerView"
+            app:layout_constraintVertical_bias="0.947" />
+
+        <TextView
+            android:id="@+id/contact_delete_info"
+            android:layout_width="317dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="20dp"
+            android:padding="0dp"
+            android:text="Kişi silmek için silmek istediğiniz kişinin üstüne basılı tutun."
+            android:textAlignment="center"
+            app:layout_constraintBottom_toTopOf="@+id/addContact"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerView"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <TextView
+            android:id="@+id/contactDataInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Not: Uygulama, verilerinizi saklamaz."
+            android:textAlignment="center"
+            android:textStyle="bold|italic"
+            app:layout_constraintBottom_toTopOf="@+id/contact_delete_info"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

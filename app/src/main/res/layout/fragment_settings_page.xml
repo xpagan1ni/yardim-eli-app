@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsPageFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/setttingsCard"
+            android:layout_width="360dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="1dp"
+            android:background="@drawable/cardview_customization"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/cardview_customization"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/titleTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@android:color/transparent"
+                    android:text="E-mail Adresiniz"
+                    android:textColor="@color/universalTextColorBlack"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/emailTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:backgroundTint="@android:color/transparent"
+                    android:text="email_adress_content"
+                    android:textColor="@color/universalTextColorBlack"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/emailSendButton"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"
+            android:width="150dp"
+            android:backgroundTint="@color/buttonColor"
+            android:text="Destek"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/signOutButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/setttingsCard"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <Button
+            android:id="@+id/appInfoPageButton"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"
+            android:width="150dp"
+            android:backgroundTint="@color/buttonColor"
+            android:text="Hakında"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/supportTextInfo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/signOutButton"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="110dp"
+            android:width="150dp"
+            android:backgroundTint="@color/buttonColor"
+            android:text="Çıkış yap"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/setttingsCard"
+            app:layout_constraintVertical_bias="0.956" />
+
+        <TextView
+            android:id="@+id/appVersionInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Uygulama Versionu: 1.0"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/signOutButton"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/supportTextInfo"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="Tavsiyeleriniz veya uygulama hakkında destek almak için butona basın."
+            android:textAlignment="center"
+            app:layout_constraintBottom_toTopOf="@+id/emailSendButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/appInfoTextview"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:layout_margin="5dp"
+            android:layout_marginBottom="20dp"
+            android:text="Uygulama hakkında detaylı bilgi için Hakkında kısmına gidin."
+            android:textAlignment="center"
+            app:layout_constraintBottom_toTopOf="@+id/appInfoPageButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.486"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/appInfoTextTwo"
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Umarız bu uygulamayı kullanmanızı gerektirecek durumlar içerisinde kalmazsınız."
+            android:textAlignment="center"
+            app:layout_constraintBottom_toTopOf="@+id/appInfoTextview"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

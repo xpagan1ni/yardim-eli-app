@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yardım Eli</string>
+    <string name="call_button_description">Call a Contacts</string>
+    <string name="location_button_description">Send Location</string>
+    <string name="torch_button_description">Torch Open</string>
+    <string name="sen_message_button_description">Send Help Message</string>
+    <string name="make_sound_button_description">Make Siren Sound</string>
+    <string name="call_police_button_description">Call Police</string>
+    <string name="background_image_desc">App Background</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_token_fmt">FCM Registration Token: %1$s</string>
+</resources>

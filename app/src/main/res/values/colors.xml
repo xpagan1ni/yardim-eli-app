@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="alertRed">#DD191B</color>
+    <color name="buttonColor">#075571</color>
+    <color name="colorSelectedNav">#6B2F45</color>
+    <color name="appBackground">#000</color>
+    <color name="universalTextColor">#FFFFFF</color>
+    <color name="universalTextColorBlack">#363D53</color>
+    <color name="cardViewBackground">#86BCD8</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

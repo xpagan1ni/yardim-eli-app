@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/cardview_customization"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/faqQuestionTextView"
+        android:layout_width="match_parent"
+        android:textColor="@color/universalTextColorBlack"
+        android:layout_height="50dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="5dp" />
+
+    <TextView
+        android:id="@+id/faqAnswerTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/universalTextColorBlack"
+        android:background="@color/cardViewBackground"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:textSize="14sp" />
+
+</LinearLayout>

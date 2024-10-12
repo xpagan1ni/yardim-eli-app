@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homePageFragment">
+
+    <fragment
+        android:id="@+id/homePageFragment"
+        android:name="com.hakanoren.guvendeapp.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <action
+            android:id="@+id/action_homePageFragment_to_settingsPageFragment"
+            app:destination="@id/settingsPageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsPageFragment"
+        android:name="com.hakanoren.guvendeapp.SettingsPageFragment"
+        android:label="fragment_settings_page"
+        tools:layout="@layout/fragment_settings_page" >
+        <action
+            android:id="@+id/action_settingsPageFragment_to_contactsPageFragment"
+            app:destination="@id/contactsPageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/contactsPageFragment"
+        android:name="com.hakanoren.guvendeapp.ContactsPageFragment"
+        android:label="fragment_contacts_page"
+        tools:layout="@layout/fragment_contacts_page" />
+</navigation>
