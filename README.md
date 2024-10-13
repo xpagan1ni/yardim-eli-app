@@ -1,5 +1,7 @@
 # Yardım Eli Uygulaması 🚨 🫴🏼
 
+NOT: Kaynak kodda uygulamanın ilk ismi olan GuvendeApp yazmaktadır. Bazı nedenlerden ötürü ismi Yardım Eli olarak değiştirilmiştir.
+
 Yardım Eli Uygulaması, kadınların ve tehlike anında yardıma ihtiyacı olan herkesin kullanabileceği çok fonksiyonlu bir mobil uygulamadır. Yardım Eli Uygulaması, Türkiye'de artan kadın cinayetlerine, kadın şiddetine dur demek, potansiyel saldırganları caydırmak ve ülkemizde böyle bir uygulamanın eksikliğini gidermek için tasarlanmıştır.
 
 Yardım Eli, tamamen açık kaynak kodlu olacak şekilde tasarlanmıştır ve kullanıcı verilerini saklamaz, üçüncü kişiler veya kurumlar ile paylaşmaz. Uygulama içerisinde vermiş olduğunuz tüm veriler kendi cihazınızda saklanır. Firebase tabanlı bir kayıt olma sistemine sahiptir ve uygulamaya sadece e-mail adresiniz ve kendi belirleyeceğiniz şifre ile kayıt olup kullanmaya başlayabilirsiniz. 
